@@ -28,4 +28,10 @@ public class TestJPAController {
 		return "TestJPA Connected..";
 	}
 	
+	@RequestMapping("/login")
+	public String login(){
+		return "login";
+	}
+	
+	
 }
