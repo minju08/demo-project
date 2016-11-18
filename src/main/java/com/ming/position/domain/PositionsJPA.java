@@ -10,7 +10,7 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name="positions")
-public class TestJPA implements Serializable {
+public class PositionsJPA implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 	

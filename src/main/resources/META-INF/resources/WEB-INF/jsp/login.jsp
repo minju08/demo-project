@@ -5,7 +5,7 @@
 <head>
 <meta charset="utf-8">
 <title>Posioning System</title>
-<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="css/login.css" />
 </head>
 
 <body>
